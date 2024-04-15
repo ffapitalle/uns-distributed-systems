@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CLEAR_LINE="\\033[K"
 
 # Check if python is installed
